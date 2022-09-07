@@ -1,7 +1,7 @@
 # ATTINY84_All-In-One
 
 I designed this board to combine all the main things I needed into a really small form (15mmx32mm).  Uses an ATTINY84 to drive an nrf24l01+. 
-Has a built in 3.7V battery charger and a softlatch so it can turn itself off when the battery gets too low.
+Has a built in 3.7V battery charger and a soft latch circuit so it can turn itself off when the battery gets too low.
 
 
 ![turntableGif](https://user-images.githubusercontent.com/11184076/188293169-1869f4b7-249d-4b38-97db-e642bd2e8da7.gif)
